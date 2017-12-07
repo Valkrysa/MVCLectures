@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCLectures", "MVCLectures\MVCLectures.csproj", "{C85C4039-1CB0-4D39-8DEE-B5D8482AEB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85C4039-1CB0-4D39-8DEE-B5D8482AEB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85C4039-1CB0-4D39-8DEE-B5D8482AEB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85C4039-1CB0-4D39-8DEE-B5D8482AEB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85C4039-1CB0-4D39-8DEE-B5D8482AEB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF0B957-F22A-4209-A2C1-A07C29D61352}
+	EndGlobalSection
+EndGlobal
